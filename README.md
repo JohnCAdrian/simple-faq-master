@@ -1,4 +1,4 @@
-#             DevChallenges.io | Simple FAQ Page
+#             <h1 align= "center"> DevChallenges.io | Simple FAQ Page </h1>
 
 ![thumbnail](https://github.com/user-attachments/assets/2ddd5560-ab78-42b9-98e9-fd85f2b6419b)
 
