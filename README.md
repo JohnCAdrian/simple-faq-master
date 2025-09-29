@@ -1,6 +1,7 @@
 # DevChallenges.io - Simple FAQ Page
 
-![Thumbnail for the Simple FAQ Page coding challenge](./thumbnail.jpg)
+![thumbnail](https://github.com/user-attachments/assets/2ddd5560-ab78-42b9-98e9-fd85f2b6419b)
+
 
 ## Welcome! 👋
 
