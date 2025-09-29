@@ -3,13 +3,11 @@
 ![thumbnail](https://github.com/user-attachments/assets/2ddd5560-ab78-42b9-98e9-fd85f2b6419b)
 
 
-## Welcome! 👋
+## Summary of project
 
-Welcome to this responsive web coding challenge.
+This is a responsive web coding challenge.[devChallenges.io](https://devchallenges.io/) challenges are designed to help you enhance your coding skills by building realistic projects.
 
-[devChallenges.io](https://devchallenges.io/) challenges are designed to help you enhance your coding skills by building realistic projects.
-
-**Suggested Skills to practice: HTML and CSS**
+**Preferred Tech Stack: HTML and CSS*
 
 ## The challenge
 
@@ -19,15 +17,11 @@ You can use any tools or resources you like to complete this challenge. Each cha
 
 If you need help or have any questions, feel free to [join our community](https://github.com/orgs/devchallenges-io/discussions) and ask for support.
 
-## Where to find everything
-
-Your goal is to build the project using the provided design. You can find the designs in the challenge editor once you start the challenge or in the `/design` folder. Please note that the `/design` folder may not include all the designs you need, so be sure to check the editor for more details.
-
-The designs are in JPG format, so you'll need to use your best judgment for styles such as `font-size`, `padding`, and `margin`. Additionally, spacing guides are available for each challenge, but access to them requires a [Pro membership](https://devchallenges.io/pro). With a Pro membership, you can also download the Figma design files.
-
-All the required assets can be found in the `/resources` folder. You may need to optimize the assets as necessary.
-
-For more information about the challenge, access the challenge editor on [devChallenges.io](https://devchallenges.io/challenges-dashboard).
+## What I learned
+This project helped me enhance my understanding of:
+- Semantic HTML: Used proper semantic elements for better accessibility
+- CSS Flexbox: Implemented flexible layouts for responsive design
+- Responsive Design: Created a mobile-first approach  for different screen sizes
 
 ## Steps to Complete the Challenge on devChallenges.io
 
