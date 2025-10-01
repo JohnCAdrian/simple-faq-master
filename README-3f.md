@@ -11,29 +11,6 @@ You can use any tools or resources you like to complete this challenge. Each cha
 
 If you need help or have any questions, feel free to [join our community](https://github.com/orgs/devchallenges-io/discussions) and ask for support.
 
-<div align="center">
-   Solution for a challenge <a href="https://devchallenges.io/challenge/simple-faq-challenge" target="_blank">Simple FAQ</a> from <a href="http://devchallenges.io" target="_blank">devChallenges.io</a>.
-</div>
-
-
-
-<div align="center">
-  <h3>
-    <a href="https://frequently-asked-questions-4k4k.netlify.app/">
-      Demo
-    </a>
-    <span> | </span>
-    <a href="https://frequently-asked-questions-4k4k.netlify.app/">
-      Solution
-    </a>
-    <span> | </span>
-    <a href="https://devchallenges.io/challenge/simple-faq-challenge">
-      Challenge
-    </a>
-  </h3>
-</div>
-
-
 
 <!-- OVERVIEW -->
 
