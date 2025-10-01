@@ -13,7 +13,8 @@ If you need help or have any questions, feel free to [join our community](https:
 
 ## Overview
 This project is a responsive FAQ web page built as part of the devChallenges.io Simple FAQ challenge. 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+!![Desktop_1350px](https://github.com/user-attachments/assets/ac1e861f-0462-47c9-9e86-d3253a58e02c)
+
 
 
 
