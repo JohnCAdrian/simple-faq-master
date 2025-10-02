@@ -1,5 +1,6 @@
 # <h1 align="center">Simple FAQ Page | devChallenges</h1>
-![Thumbnail for the Simple FAQ Page coding challenge](./thumbnail.jpg)
+![thumbnail](https://github.com/user-attachments/assets/6117a313-aafc-4991-bf0a-f22c76d813cc)
+
 
 ## The challenge
 
